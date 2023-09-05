@@ -2,7 +2,7 @@
 
 # Caractéristiques
 
-[![image-1637500523709.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1637500523709.png)](docs\image-1637500523709.png)
+[![image-1637500523709.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1637500523709.png)](docs/image-1637500523709.png)
 
 [https://www.elegoo.com/products/elegoo-mars-2-mono-lcd-3d-printer](https://www.elegoo.com/products/elegoo-mars-2-mono-lcd-3d-printer)  
 129mm(L)\*80mm(W)\*150mm(H)
@@ -55,7 +55,7 @@ Améliorer des impressions transparentes (éviter la teinte jaune)
 
 ## Téléchargement
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/2zjimage.png)](docs\2zjimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/2zjimage.png)](docs/2zjimage.png)
 
 [💾Télécharger Lychee Slicer](https://lychee.mango3d.io/)
 
@@ -67,11 +67,11 @@ Améliorer des impressions transparentes (éviter la teinte jaune)
 
 **Ajouter l'imprimante en cliquant sur l'icone imprimante en haut à gauche**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/ld6image.png)](docs\ld6image.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/ld6image.png)](docs/ld6image.png)
 
 Cliquer sur <span style="color: rgb(45, 194, 107);">**Ajouter** </span>/ **imprimante résine** / **Elegoo** / **Elegoo Mars 2**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/6Jjimage.png)](docs\6Jjimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/6Jjimage.png)](docs/6Jjimage.png)
 
 ### Ajout Résines
 
@@ -85,16 +85,16 @@ Chaque résine a un bac dédié afin de ne pas avoir à vider le plateau.
 <p class="callout danger">Les bacs sont dans le deuxième tiroir, demandez au permanent de changer le bac pour vous  
 LE PLATEAU DOIT ETRE RETIRER ET NETTOYER AVANT LE CHANGEMENT DE BAC</p>
 
-<div id="bkmrk-cliquer-sur-ajouter--0">Cliquer sur <span style="color: rgb(45, 194, 107);">Ajouter Nouvelle Résine (deux fois)</span></div>[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/omwimage.png)](docs\omwimage.png)
+<div id="bkmrk-cliquer-sur-ajouter--0">Cliquer sur <span style="color: rgb(45, 194, 107);">Ajouter Nouvelle Résine (deux fois)</span></div>[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/omwimage.png)](docs/omwimage.png)
 
 Mettez dans les filtres : **Elegoo Mars 2 / Elegoo / Rapid / Standard / Grey / Tout  
 Sélectionner le premier choix (celui avec le plus d'utilisateurs)**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/xwUimage.png)](docs\xwUimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/xwUimage.png)](docs/xwUimage.png)
 
 Mettez dans les filtres : **Elegoo Mars 2 / Elegoo / Rapid / Standard / Translucent / Tout**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/N2fimage.png)](docs\N2fimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/N2fimage.png)](docs/N2fimage.png)
 
 # Lychee Slicer - Préparation Objet (rapide)
 
@@ -112,7 +112,7 @@ Vous pouvez trouver des modèles ici :
 
 **Cliquer sur Ajouter des fichiers pour ajouter votre objet (Les objets sont le plus souvent au format STL/ 3MF)**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/en6image.png)](docs\en6image.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/en6image.png)](docs/en6image.png)
 
 <p class="callout info">Les impressions doivent toujours être soutenu par des supports, idéalement ne doit pas être à plat (mais ce n'est pas une obligation).</p>
 
@@ -120,11 +120,11 @@ Vous pouvez trouver des modèles ici :
 
 **Cliquer sur Magie et J'ai de la chance (bouton en bas à droite)** Le bouton Magie va régler automatiquement l'orientation et créer les supports, les réglages par défauts sont la plupart du temps suffisants mais avec de l'expérience vous pouvez optimiser les supports et l'orientation.
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/DfBimage.png)](docs\DfBimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/DfBimage.png)](docs/DfBimage.png)
 
 Vous devriez avec un objets avec des supports et une orientation optimisée
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/j7Gimage.png)](docs\j7Gimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/j7Gimage.png)](docs/j7Gimage.png)
 
 Tout en bas de l'écran, vous pouvez estimer le temps d'impression, cliquer sur **Estimer le temps d'impression** pour voir le temps
 
@@ -132,7 +132,7 @@ Tout en bas de l'écran, vous pouvez estimer le temps d'impression, cliquer sur 
 
 <p class="callout warning">Le temps d'impression dépends de la HAUTEUR de l'impression</p>
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/CXJimage.png)](docs\CXJimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/CXJimage.png)](docs/CXJimage.png)
 
 ## Export du Fichiers
 
@@ -144,9 +144,9 @@ Vous pouvez constater en haut au milieu trois icones.
 
 Cliquer sur **Exporter** puis sur **Exporter les couches sur l'ordinateur**, copier le fichier sur la **clé USB** de l'imprimante.
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/Tgqimage.png)](docs\Tgqimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/Tgqimage.png)](docs/Tgqimage.png)
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/euuimage.png)](docs\euuimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/euuimage.png)](docs/euuimage.png)
 
 <p class="callout info">Il faut attendre la publicité 😭avant l'export</p>
 
@@ -158,19 +158,19 @@ Les explications sont pour chitubox, LycheeSlicer a une fonctionnalité de posit
 
 <span style="color: #000000;">À</span> la différence de l'impression 3D à base de filaments, il est recommandé de toujours utiliser des supports, la première couche sur le plateau doit être la plus petite pour que l'impression se décolle à chaque couche.
 
-[![image-1638015277802.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015277802.png)](docs\image-1638015277802.png)
+[![image-1638015277802.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015277802.png)](docs/image-1638015277802.png)
 
 Par défaut, les impressions sont toujours surélevées de 5mm, vous pouvez modifier le haut/milieu/bas des supports, ainsi que les supprimer ou en ajouter.
 
-[![image-1638015330081.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015330081.png)](docs\image-1638015330081.png)
+[![image-1638015330081.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015330081.png)](docs/image-1638015330081.png)
 
 Il est possible de rendre creux un objet grâce à ce bouton
 
-[![image-1638015412611.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015412611.png)](docs\image-1638015412611.png)
+[![image-1638015412611.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015412611.png)](docs/image-1638015412611.png)
 
 Il faut faire attention à ce que la résine liquide ne se retrouve pas coincer dans l'objet, pour cela on peut faire des trous
 
-[![image-1638015464912.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015464912.png)](docs\image-1638015464912.png)
+[![image-1638015464912.png](https://doc.labsud.org/uploads/images/gallery/2021-11/scaled-1680-/image-1638015464912.png)](docs/image-1638015464912.png)
 
 # Lancer une impression
 
@@ -204,13 +204,13 @@ Faites aussi attention au bac d'alcool, les vapeurs peuvent provoqués des étou
 
 <p class="callout danger">Le bouton d'allumage et d'extinction se trouve à l'arrière de l'imprimante</p>
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/fCPimage.png)](docs\fCPimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/fCPimage.png)](docs/fCPimage.png)
 
 ## Lancer l'impression
 
 Brancher la clé USB / Appuyez sur **Print** / **Sélectionner l'objet** / Appuyer sur **Play**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/awKimage.png)](docs\awKimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/awKimage.png)](docs/awKimage.png)
 
 <p class="callout info">Il n'est pas vraiment possible de vérifier que l'impression se déroule bien, vous pouvez toutefois écouter attentivement, si aucun bruit quand le plateau se lève (le bruit est un peu comme un bruit de velcro), il se peut que l'impression se soit décollé)  
 Vous pouvez aussi mettre en pause l'impression (attendre au moins que l'impression soit à 25 voir 50%).</p>
@@ -225,13 +225,13 @@ Ayez à portée de main du papier absorbants avant toute manipulation</p>
 Une fois l'impression terminée, attendez un moment que les goûtes de résines ne soit plus sur le plateau  
 Dévisser la grande vis du haut pour retirer le plateau (1 sur le schéma)
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/Nxtimage.png)](docs\Nxtimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/Nxtimage.png)](docs/Nxtimage.png)
 
 A l'aide d'une spatule (en plastique) retirée l'impression du plateau, tourner autour du support afin de le fragiliser
 
 <p class="callout warning">Ne forcer pas trop et prenez votre temps, sinon l'impression risque de partir un peu brusquement!</p>
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/SYBimage.png)](docs\SYBimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/SYBimage.png)](docs/SYBimage.png)
 
 ## Lavage
 
@@ -251,7 +251,7 @@ A l'aide d'une spatule (en plastique) retirée l'impression du plateau, tourner 
 
 <p class="callout warning">Si l'alcool ne fait pas de tourbillon, c'est que les résidus de résines a bloqué le mécanisme, prévenir le permanent</p>
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/f9himage.png)](docs\f9himage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/f9himage.png)](docs/f9himage.png)
 
 ## Curing UV de l'impression
 
@@ -262,7 +262,7 @@ Une fois lavée, il reste une dernière étape, exposer l'impression au UV pour 
 - Sélectionner le **mode UV**
 - Mettre au minimum à **2 minutes**
 
-[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/bJZimage.png)](docs\bJZimage.png)
+[![image.png](https://doc.labsud.org/uploads/images/gallery/2023-09/scaled-1680-/bJZimage.png)](docs/bJZimage.png)
 
 Une fois terminé, vérifiez que votre impression est bien sec (sinon relancer l'opération)
 
